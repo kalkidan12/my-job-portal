@@ -2,9 +2,6 @@
 
 # dependencies
 /node_modules
-/schemas
-/seeds
-/utils
 /.pnp
 .pnp.js
 
